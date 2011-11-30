@@ -128,7 +128,7 @@ set ::msgcat::header "Project-Id-Version: \nReport-Msgid-Bugs-To: \nPOT-Creation
 ::msgcat::mcset es "Close" "Cerrar"
 ::msgcat::mcset es "Warning: Can not save to" "Aviso: No se pudo guardar en"
 ::msgcat::mcset es "because the file permissions are set for read-only access." "porque el acceso al fichero es de s\u00f3lo lectura."
-::msgcat::mcset es "Please change the file permissions to read-write and hit 'Retry' or hit 'Cancel' and use 'File'->'Save As' to save into a different file." "Por favor cambie los permisos del fichero a lectura-escritura"
+::msgcat::mcset es "Please change the file permissions to read-write and hit 'Retry' or hit 'Cancel' and use 'File'->'Save As' to save into a different file." "Por favor cambie los permisos del fichero a lectura-escritura y pulse 'Reintentar' o 'Cancelar' y use 'Archivo'->'Guardar Como' para guardar en un fichero diferente."
 ::msgcat::mcset es "Warning: Read-only password file" "Aviso: El fichero de contrase\u00f1as no tiene permiso de escritura"
 ::msgcat::mcset es "Password database saved." "Base de datos guardada."
 ::msgcat::mcset es "Save password database ..." "Guardar base de datos ..."
